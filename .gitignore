@@ -1,5 +1,2 @@
-# ignores nodemodules for file space
-node_modules\
-
-#ignores the .env for private files
 .env
+node_modules
