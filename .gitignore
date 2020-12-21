@@ -1,8 +1,5 @@
 # ignores nodemodules for file space
-nodemodules
+node_modules\
 
 #ignores the .env for private files
 .env
-
-
-docker-compose.yml
